@@ -1,5 +1,5 @@
 # Hi, I’m Bassem Ahmed
-- I am an AI engineer with a passion for maths and statistics. Looking for a chance to tackle real-world issues, keen to pick up new skills, and willing to work anywhere I can learn.
+-  i am a fresh graduate graduated from Electronics and Communication Engineering, passionate about Mathematics and the field of Artificial Intelligence. I am looking for a job that can feed me with knowledge.
 
 # Education
 - Bachelor's degree | Electronics and Communication Engineering
@@ -9,7 +9,7 @@
 # Skills
 ### Programming Languages
 - Python
-### Technologies, Frameworks and Libraries   
+### Frameworks and Libraries   
 - Pandas | TensorFlow | Scikit-learn | Keras | Open CV | NumPy 
 -  Matplotlib | Seaborn 
 
@@ -37,8 +37,9 @@ PyCharm | Git
 - LinkedIn: https://www.linkedin.com/in/bassem-ahmed-ahmed/
 
 # Feedback
-- I would appreciate it if you told me how to improve myself, I really need every piece of advice to develop myself , please reach me out on Email or Linkedin  
-- I know some week points of mine(problem solving and general software engineering principals) of mine and currently I am working on them. 
-- Thanks! 
-
+-Can you please provide me with feedback on how I can improve myself? 
+-I am eager to receive any advice that can help me develop my skills. 
+-You can contact me through email or LinkedIn. 
+-I am aware of my weaknesses in problem-solving and I am actively working on improving it. 
+-Thank you
 
