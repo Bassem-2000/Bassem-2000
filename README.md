@@ -37,9 +37,9 @@ PyCharm | Git
 - LinkedIn: https://www.linkedin.com/in/bassem-ahmed-ahmed/
 
 # Feedback
--Can you please provide me with feedback on how I can improve myself? 
--I am eager to receive any advice that can help me develop my skills. 
--You can contact me through email or LinkedIn. 
--I am aware of my weaknesses in problem-solving and I am actively working on improving it. 
--Thank you
+- Can you please provide me with feedback on how I can improve myself? 
+- I am eager to receive any advice that can help me develop my skills. 
+- You can contact me through email or LinkedIn. 
+- I am aware of my weaknesses in problem-solving and I am actively working on improving it. 
+- Thank you
 
