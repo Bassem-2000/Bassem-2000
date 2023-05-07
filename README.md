@@ -19,7 +19,7 @@ Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical
 Regression (linear, Logistic) | Object-Detection
 
 ### Deep Learning 
-- CNNs | LSTMs | RNNs | SOMs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization |
+- CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization |
 Hyperparameter Tuning
 
 ### IDEs, Containers, and code versioning 
