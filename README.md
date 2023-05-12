@@ -2,12 +2,9 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
----
-title: Profile 👨🏻‍💻
-style:
-  h1:
-    border-bottom: 2px solid red;
----
+
+<h1>Profile 👨🏻‍💻</h1>
+<hr style="border-top: 2px solid red;">
 -  A fresh graduate from Electronics and Communication Engineering, eager about Mathematics and Artificial Intelligence. and looking for an internship or a job opportunity that can help me gain hands-on experience.
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
