@@ -8,7 +8,7 @@
 # 🔗Contact Me
 [<img alt="alt_text" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 [<img alt="alt_text" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/bassem-ahmed-ahmed/)
-
+[<img alt="alt_text" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" />](mailto:bassemahmed.am@gmail.com)
 
 
 # Skills
