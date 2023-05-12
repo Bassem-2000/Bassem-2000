@@ -34,15 +34,18 @@ Hyperparameter Tuning
 - Jupyter-lab | Google Collaboratory |
 PyCharm | Git
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 ### Languages
 
 - English: intermediate
 - Arabic: Native 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 ### Resume 
 
 - Google Drive: https://drive.google.com/file/d/1MG97pFpoFiS13zwvK2Q335Q64PnpDEc_/view?usp=sharing
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 ### Contact Me 🔗
 
 &nbsp;
@@ -54,6 +57,7 @@ PyCharm | Git
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-512.png" />](https://www.facebook.com/bassem.ahmed.7712/)
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 ### Feedback
 
 - Can you please provide me with feedback on how I can improve myself? 
