@@ -20,7 +20,7 @@
 
 ### Frameworks and Libraries 
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" />](https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png)
-<!-- &nbsp;&nbsp; -->
+&nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />](https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png)
 &nbsp;&nbsp;
 [<img alt="alt_text" width="80px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />](https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png)
