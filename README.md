@@ -24,7 +24,7 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="90px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="80px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
