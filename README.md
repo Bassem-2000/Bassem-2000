@@ -29,6 +29,10 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="70px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
+[<img alt="alt_text" width="70px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="70px" src="https://seeklogo.com/images/O/opencv-logo-2E094ACFAC-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+&nbsp;&nbsp;
 - Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
 
