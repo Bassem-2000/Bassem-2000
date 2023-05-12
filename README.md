@@ -19,13 +19,13 @@
 - C++
 
 ### Frameworks and Libraries 
-[<img alt="alt_text" width="70px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="80px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="70px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="80px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="50px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="50px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
 [<img alt="alt_text" width="70px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
