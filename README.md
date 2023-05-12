@@ -5,6 +5,7 @@
 # Education 👨🏻‍🎓
   <p align="right">08/2018 – 02/2023</p>
 - Bachelor's degree | Electronics and Communication Engineering 
+- Today's date is <span style="text-align:right">08/2018 – 02/2023</span>.
   - Graduation Project: Artificial boat save dranwing people  
 
 # Skills
