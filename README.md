@@ -14,28 +14,28 @@
 
 # Skills
 
-## Programming Languages
+### Programming Languages
 
 - Python
 - C++
 
-## Frameworks and Libraries 
+### Frameworks and Libraries 
 
 - Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
 
-## ML Algorithms
+### ML Algorithms
 
 - (K-Means, KNN, Decision tree, SVM, and more)
 Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical clustering 
 Regression (linear, Logistic) | Object-Detection
 
-## Deep Learning 
+### Deep Learning 
 
 - CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization |
 Hyperparameter Tuning
 
-## IDEs, Containers, and code versioning 
+### IDEs, Containers, and code versioning 
 
 - Jupyter-lab | Google Collaboratory |
 PyCharm | Git
