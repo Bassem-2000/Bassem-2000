@@ -34,8 +34,6 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="100px" height="40px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
-- Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
--  Matplotlib | Seaborn 
 
 ### ML Algorithms
 
