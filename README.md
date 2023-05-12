@@ -5,6 +5,8 @@
 # Education 👨🏻‍🎓 
 - Bachelor's degree | Electronics and Communication Engineering 08/2018 – 02/2023
   - Graduation Project: Artificial boat save dranwing people  
+### 🔗Contact Me
+[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
 
 # Skills
 ### Programming Languages
@@ -44,7 +46,5 @@ PyCharm | Git
 - I am aware of my weaknesses in problem-solving and I am actively working on improving it. 
 - Thank you
 
-<!-- ### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
- -->
+
 
