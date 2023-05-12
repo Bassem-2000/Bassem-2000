@@ -8,6 +8,9 @@
     </style>
   </head>
   <body>
+  </body>
+</html>
+<!--
 <h3 align="center"><img align="center"src="https://media0.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif?cid=ecf05e47mb0f479zvwh0dvlgezvine7aiv1j3j0bzf52t562&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1000" height="400"></h3>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
@@ -77,5 +80,4 @@ PyCharm | Git
 - You can contact me through email or LinkedIn. 
 - I am aware of my weaknesses in problem-solving and I am actively working on improving it. 
 - Thank you
-  </body>
-</html>
+-->
