@@ -13,37 +13,46 @@
   - Graduation Project: Artificial boat save dranwing people  
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 ### Skills
+
 #### Programming Languages
+
 - Python
 - C++
-#### Frameworks and Libraries   
+#### Frameworks and Libraries  
+
 - Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
 
 #### ML Algorithms
+
 - (K-Means, KNN, Decision tree, SVM, and more)
 Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical clustering 
 Regression (linear, Logistic) | Object-Detection
 
 #### Deep Learning 
+
 - CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization |
 Hyperparameter Tuning
 
 #### IDEs, Containers, and code versioning 
+
 - Jupyter-lab | Google Collaboratory |
 PyCharm | Git
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### Languages
+
 - English: intermediate
 - Arabic: Native 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### Resume 
+
 - Google Drive: https://drive.google.com/file/d/1MG97pFpoFiS13zwvK2Q335Q64PnpDEc_/view?usp=sharing
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### Contact Me 🔗
+
 &nbsp;
 [<img alt="alt_text" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
