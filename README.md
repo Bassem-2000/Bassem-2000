@@ -3,7 +3,7 @@
 # Profile 👨🏻‍💻
 -  A fresh graduate from Electronics and Communication Engineering, eager about Mathematics and Artificial Intelligence. and looking for an internship or a job opportunity that can help me gain hands-on experience.
 # Education 👨🏻‍🎓
-  <p align="right">08/2018 – 02/2023</p>
+- <p align="right">08/2018 – 02/2023</p>
 - Bachelor's degree | Electronics and Communication Engineering 
 - Graduation Project: Artificial boat save dranwing people  
 
