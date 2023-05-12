@@ -1,6 +1,6 @@
 <h1 align="center"><img align="right" src="https://media0.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif?cid=ecf05e47mb0f479zvwh0dvlgezvine7aiv1j3j0bzf52t562&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="280"></h1>
-
-<h2 align="center">
+<br/>
+<br/>
 # Hi, I’m Bassem Ahmed
 -  i am a fresh graduate graduated from Electronics and Communication Engineering, passionate about Mathematics and the field of Artificial Intelligence. I am looking for a job that can feed me with knowledge.
 # Education
@@ -37,8 +37,7 @@ PyCharm | Git
 # Contact
 - Email: bassemahmed.am@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bassem-ahmed-ahmed/
-</h2>
-
+  
 # Feedback
 - Can you please provide me with feedback on how I can improve myself? 
 - I am eager to receive any advice that can help me develop my skills. 
