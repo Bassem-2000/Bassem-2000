@@ -1,6 +1,6 @@
 # Hi, I’m Bassem Ahmed
 -  i am a fresh graduate graduated from Electronics and Communication Engineering, passionate about Mathematics and the field of Artificial Intelligence. I am looking for a job that can feed me with knowledge.
-<img align="right" src="https://64.media.tumblr.com/f0a77ec73fd9feefdc64657a8b6f80ef/tumblr_nbvogcvEux1r51vveo1_400.gifv" width="380" height="280">
+<img align="right" src="https://media3.giphy.com/media/Fs4Fh8g3KxM3PEoGIB/giphy.gif?cid=ecf05e47bhw6rodou8h2kcrymlfra7tkhoko0zz0i3tvscqd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="380" height="280">
 
 # Education
 - Bachelor's degree | Electronics and Communication Engineering
