@@ -30,9 +30,9 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="120px" src="https://seeklogo.com/images/O/opencv-logo-2E094ACFAC-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="120px" height="40px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="110px" height="40px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="120px" height="30px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="110px" height="40px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
 - Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
