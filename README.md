@@ -15,8 +15,10 @@
 # Skills
 
 ### Programming Languages
-- Python
-- C++
+[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />](https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />](https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png)
+&nbsp;&nbsp;
 
 ### Frameworks and Libraries 
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" />](https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png)
