@@ -9,6 +9,7 @@
 # Skills
 ### Programming Languages
 - Python
+- C++
 ### Frameworks and Libraries   
 - Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
