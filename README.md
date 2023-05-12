@@ -20,7 +20,7 @@
 
 ### Frameworks and Libraries 
 
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" />]
+<img alt="alt_text" width="40px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" />
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />]
 &nbsp;&nbsp;
