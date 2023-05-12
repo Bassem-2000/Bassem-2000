@@ -15,12 +15,12 @@
 # Skills
 
 ### Programming Languages
-
 - Python
 - C++
 
 ### Frameworks and Libraries 
-
+[<img alt="alt_text" width="30px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+&nbsp;&nbsp;
 - Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
 
