@@ -18,7 +18,7 @@
 ## Frameworks and Libraries  
 - Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
--  
+
 ## ML Algorithms
 - (K-Means, KNN, Decision tree, SVM, and more)
 Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical clustering 
