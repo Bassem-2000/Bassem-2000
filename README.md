@@ -3,14 +3,15 @@
 # Profile 👨🏻‍💻
 -  A fresh graduate from Electronics and Communication Engineering, eager about Mathematics and Artificial Intelligence. and looking for an internship or a job opportunity that can help me gain hands-on experience.
 # Education 👨🏻‍🎓
-- Bachelor's degree | Electronics and Communication Engineering \t 08/2018 – 02/2023
+- Bachelor's degree | Electronics and Communication Engineering 08/2018 – 02/2023
+- Bachelor's degree | Electronics and Communication Engineering <span style="text-align:right">08/2018 – 02/2023</span>.
 - Graduation Project: Artificial boat save dranwing people  
 
 # Skills
 ### Programming Languages
 - Python
 ### Frameworks and Libraries   
-- Pandas | TensorFlow | Scikit-learn | Keras | Open CV | NumPy 
+- Pandas | TensorFlow | Scikit-learn | Keras | OpenCV | NumPy 
 -  Matplotlib | Seaborn 
 
 ### ML Algorithms
