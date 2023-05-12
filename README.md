@@ -5,7 +5,7 @@
 # Education 👨🏻‍🎓
 <p align="right">08/2018 – 02/2023</p>
 - Bachelor's degree | Electronics and Communication Engineering 
-  - Graduation Project: Artificial boat save dranwing people  
+ - Graduation Project: Artificial boat save dranwing people  
 
 # Skills
 ### Programming Languages
