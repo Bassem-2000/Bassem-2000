@@ -1,4 +1,4 @@
-<img align="right" src="https://media0.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif?cid=ecf05e47vyjflrz2e8e8kmx555d6cqj6z5e5u9jm1nhwzgvq&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="380" height="280">
+<img align="right" src="https://media4.giphy.com/media/Y4PkFXkfTeEKqGBBsC/giphy.gif?cid=ecf05e47tfpsu6g6l4r2qsx4w0vw2a5zhiutejyahsnexlwv&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="380" height="280">
 
 # Hi, I’m Bassem Ahmed
 -  i am a fresh graduate graduated from Electronics and Communication Engineering, passionate about Mathematics and the field of Artificial Intelligence. I am looking for a job that can feed me with knowledge.
