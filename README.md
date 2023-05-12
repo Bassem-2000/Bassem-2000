@@ -6,7 +6,7 @@
 - Bachelor's degree | Electronics and Communication Engineering 08/2018 – 02/2023
   - Graduation Project: Artificial boat save dranwing people  
 ### 🔗Contact Me
-[![Alt Text]([image_url](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png)){:height="50%" width="50%"}](hyperlink_url)
+[![Alt Text](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png){:height="50%" width="50%"}](extension://jaekigmcljkkalnicnjoafgfjoefkpeg/suspended.html#ttl=Post%20%7C%20Feed%20%7C%20LinkedIn&pos=111.84000396728516&uri=https://www.linkedin.com/feed/update/urn:li:activity:7061653393634734081/)
 
 # Skills
 ### Programming Languages
