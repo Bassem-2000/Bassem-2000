@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img align="center"src="https://media0.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif?cid=ecf05e47mb0f479zvwh0dvlgezvine7aiv1j3j0bzf52t562&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="280"></h1>
-
+<!-- -->
 
 # Profile 👨🏻‍💻
 -  A fresh graduate from Electronics and Communication Engineering, eager about Mathematics and Artificial Intelligence. and looking for an internship or a job opportunity that can help me gain hands-on experience.
