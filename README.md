@@ -1,5 +1,13 @@
 <h1 align="center"><img align="center"src="https://media0.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif?cid=ecf05e47mb0f479zvwh0dvlgezvine7aiv1j3j0bzf52t562&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="280"></h1>
 
+#!/bin/bash
+
+for f in "$@"; do
+echo "${f}"
+  cp "${f}" ".${f}.tmp" \
+    && sed 's/^[[:blank:]]*//' ".${f}.tmp" | tr -d '[:cntrl:]' > "${f}" \
+    && rm -f ".${f}.tmp"
+done
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 # Profile 👨🏻‍💻 
