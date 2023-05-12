@@ -19,7 +19,7 @@
 - C++
 
 ### Frameworks and Libraries 
-[<img alt="alt_text" width="70px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
+[<img alt="alt_text" width="70px" high="50px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
 [<img alt="alt_text" width="70px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://wa.me/qr/OITPULZ3JCHHB1)
 &nbsp;&nbsp;
