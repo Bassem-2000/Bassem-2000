@@ -57,7 +57,7 @@ PyCharm | Git
 
 # Resume 
 
-- Google Drive: https://drive.google.com/file/d/1MG97pFpoFiS13zwvK2Q335Q64PnpDEc_/view?usp=sharing
+[<img alt="alt_text" width="30px" src="https://seeklogo.com/images/G/google-drive-logo-C66555C645-seeklogo.com.png" />]( https://drive.google.com/file/d/1MG97pFpoFiS13zwvK2Q335Q64PnpDEc_/view?usp=sharing)
 
 # Contact Me 🔗
 
