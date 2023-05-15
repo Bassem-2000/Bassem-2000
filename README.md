@@ -59,7 +59,7 @@ PyCharm | Git
 
 # Resume 
 
-&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="alt_text" width="70px" src="https://seeklogo.com/images/G/google-drive-logo-C66555C645-seeklogo.com.png" />]( https://drive.google.com/file/d/1MG97pFpoFiS13zwvK2Q335Q64PnpDEc_/view?usp=sharing)
+&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="alt_text" width="70px" src="https://seeklogo.com/images/G/google-drive-logo-C66555C645-seeklogo.com.png" />]( https://drive.google.com/file/d/1PFN_H9CTQ_3HU0u_nkNlIbtxosH1Gqk-/view?usp=sharing)
 
 # Contact Me 🔗
 
