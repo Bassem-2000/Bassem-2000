@@ -57,7 +57,10 @@ Hyperparameter Tuning
 &nbsp;&nbsp;
 [<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />](https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png)
 &nbsp;&nbsp;
-
+[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />](https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
+&nbsp;&nbsp;
 
 <!-- - Jupyter-lab | Google Collaboratory |
 PyCharm | Git -->
