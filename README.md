@@ -49,9 +49,9 @@ Hyperparameter Tuning
 
 ### IDEs, Containers, and code versioning 
 
-[<img alt="alt_text" width="40px" height="40px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" />](https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png)
+[<img alt="alt_text" width="40px" height="48px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" />](https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="65px" height="75px" src="https://logowik.com/content/uploads/images/google-colaboratory6512.jpg" />](https://logowik.com/content/uploads/images/google-colaboratory6512.jpg)
+[<img alt="alt_text" width="65px" height="65px" src="https://logowik.com/content/uploads/images/google-colaboratory6512.jpg" />](https://logowik.com/content/uploads/images/google-colaboratory6512.jpg)
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" height="40" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" />](https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png)
 &nbsp;&nbsp;
