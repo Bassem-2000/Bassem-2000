@@ -51,7 +51,7 @@ Hyperparameter Tuning
 
 [<img alt="alt_text" width="40px" height="48px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" />](https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="65px" height="65px" src="https://logowik.com/content/uploads/images/google-colaboratory6512.jpg" />](https://logowik.com/content/uploads/images/google-colaboratory6512.jpg)
+[<img alt="alt_text" width="65px" height="65px" src="https://repository-images.githubusercontent.com/228673061/b2c25180-3bff-11ea-965f-4b34f4c6be08" />](https://repository-images.githubusercontent.com/228673061/b2c25180-3bff-11ea-965f-4b34f4c6be08)
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" height="40" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" />](https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png)
 &nbsp;&nbsp;
