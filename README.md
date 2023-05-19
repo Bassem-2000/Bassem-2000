@@ -67,7 +67,7 @@ PyCharm | Git -->
 
 # Languages
 
-- English: intermediate
+- English: Upper Intermediate
 - Arabic: Native 
 
 # Resume 
