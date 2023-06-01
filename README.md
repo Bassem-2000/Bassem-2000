@@ -93,5 +93,5 @@ PyCharm | Git -->
 - I am aware of my weaknesses in problem-solving and I am actively working on improving it. 
 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thank you :)* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thank you (:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
