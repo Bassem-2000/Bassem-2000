@@ -29,7 +29,7 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />](https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />](https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png)
+[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />](https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png)
 &nbsp;&nbsp;
 [<img alt="alt_text" width="120px" src="https://seeklogo.com/images/O/opencv-logo-2E094ACFAC-seeklogo.com.png" />](https://seeklogo.com/images/O/opencv-logo-2E094ACFAC-seeklogo.com.png)
 &nbsp;&nbsp;
