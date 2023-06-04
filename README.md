@@ -35,6 +35,8 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="100px" height="40px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png)
 &nbsp;&nbsp;
+[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />](https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png)
+&nbsp;&nbsp;
 
 ### ML Algorithms
 
@@ -61,8 +63,7 @@ Hyperparameter Tuning
 &nbsp;&nbsp;
 [<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />](https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png)
-&nbsp;&nbsp;
+
 
 <!-- - Jupyter-lab | Google Collaboratory |
 PyCharm | Git -->
