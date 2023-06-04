@@ -61,6 +61,8 @@ Hyperparameter Tuning
 &nbsp;&nbsp;
 [<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
 &nbsp;&nbsp;
+[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />](https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png)
+&nbsp;&nbsp;
 
 <!-- - Jupyter-lab | Google Collaboratory |
 PyCharm | Git -->
