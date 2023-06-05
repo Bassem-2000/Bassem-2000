@@ -42,14 +42,11 @@
 
 ### ML Algorithms
 
-- (K-Means, KNN, Decision tree, SVM, and more)
-Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical clustering 
-Regression (linear, Logistic) | Object-Detection
+- K-Means | DB Scan | Hierarchical clustering | KNN | Decision tree | SVM | linear Regression | Logistic Regression | Naive Bays
 
 ### Deep Learning 
 
-- CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization |
-Hyperparameter Tuning
+- CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization | Data Augmentation| Image Segmentation | Hyperparameter Tuning
 
 ### IDEs, Containers, and code versioning 
 
