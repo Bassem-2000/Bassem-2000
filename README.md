@@ -1,7 +1,7 @@
 <!-- <h3 align="center"><img align="center"src="https://media0.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif?cid=ecf05e47mb0f479zvwh0dvlgezvine7aiv1j3j0bzf52t562&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1000" height="400"></h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+you're+profile!;Add+a+description+to+you're+repo!;Make+you're+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI Engineer;Add+a+bio+to+you're+profile!;Add+a+description+to+you're+repo!;Make+you're+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <h3 align="center"><img align="center"src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" width="1000" height="400"></h3>
