@@ -6,7 +6,7 @@
  -->
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI Engineer;&center=true&width=300&height=50&duration=5000&pause=2000&fontsize=30" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI Engineer;&center=true&width=300&height=50&duration=5000&pause=2000&size=40" alt="Example Usage - README Typing SVG">
 </p>
 
 # Profile 👨🏻‍💻
