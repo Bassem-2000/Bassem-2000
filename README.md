@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI Engineer;&center=true&width=300&height=100&duration=5000&pause=2000&size=40" alt="Example Usage - README Typing SVG">
 </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 # Profile 👨🏻‍💻
 
   - A fresh graduate from Electronics and Communication Engineering, eager about Mathematics and Artificial Intelligence. and looking for an internship or a job opportunity that can help me gain hands-on experience.
