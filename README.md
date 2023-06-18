@@ -53,7 +53,7 @@
 
 ### Deep Learning 
 
-- CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization | Data Augmentation| Image Segmentation | Hyperparameter Tuning
+- CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization | Data Augmentation | Image Segmentation | Hyperparameter Tuning
 
 ### IDEs, Containers, and code versioning 
 
