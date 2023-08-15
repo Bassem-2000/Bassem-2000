@@ -3,10 +3,10 @@
 
 
 <!--<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=65px>-->
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" border="0" alt="animated-line-image-0387" /></a><p align="center" width=100% height=65px>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width=100% height=65px border="0" alt="animated-line-image-0387" /></a><p align="center" >
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&width=650&height=80&duration=5000&font=Bodoni+Moda&pause=2000&size=42&color=393031" alt="Example Usage - README ZTyping SVG">
 </p>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" border="0" alt="animated-line-image-0387" /></a><p align="center" width=100% height=65px>>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif"width=100% height=65px border="0" alt="animated-line-image-0387" /></a><p align="center" >
 
 
 
