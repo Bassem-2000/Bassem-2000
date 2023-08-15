@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&width=650&height=80&duration=5000&font=Bodoni+Moda&pause=2000&size=42&color=393031" alt="Example Usage - README ZTyping SVG">
 </p>
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif"width=100% height=3px border="0" alt="animated-line-image-0387" /></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width=100% height=3px border="0" alt="animated-line-image-0387" /></a>
 
 
 <h3 align="center"><img align="center"src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" width="800" height="400"></h3>
