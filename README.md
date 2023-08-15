@@ -116,5 +116,6 @@ PyCharm | Git -->
 - I am aware of my weaknesses in problem-solving and I am actively working on improving it. 
 
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Thank you (:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thank You;&center=true&vCenter=true&multiline=true&width=800&height=80&duration=5000&font=Bodoni+Moda&pause=2000&size=42&color=393031" alt="Example Usage - README ZTyping SVG">
+</p>
