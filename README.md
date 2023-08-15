@@ -4,9 +4,10 @@
 <!-- /<h3 align="center"><img align="center"src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" width="1000" height="400"></h3>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
  -->
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2F6-business-benefits-of-outsourcing-your-ai-projects-e8d084aef3ac&psig=AOvVaw3DJTjH9HspIq62twVorI v&ust=1692214362053000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiIpvGz34ADFQAAAAAdAAAAABAE" width=100% height=95px>
+<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&width=600&height=60&duration=5000&pause=2000&size=40" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&width=600&height=60&duration=5000&pause=2000&size=40" alt="Example Usage - README ZTyping SVG">
 </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
