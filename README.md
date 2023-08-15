@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&width=600&height=80&duration=5000&pause=2000&size=40" alt="Example Usage - README ZTyping SVG">
 </p>
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=65px>
 
 # Profile 👨🏻‍💻
 
