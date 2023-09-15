@@ -1,6 +1,3 @@
-<!--<h3 align="center"><img align="center"src="https://media0.giphy.com/media/KVVgWtScb37USleUB3/giphy.gif?cid=ecf05e47mb0f479zvwh0dvlgezvine7aiv1j3j0bzf52t562&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="800" height="300"></h3> -->
-
-
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width=100% height=3px border="0" alt="animated-line-image-0387" /></a>
 
@@ -60,9 +57,6 @@
 [<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
 &nbsp;&nbsp;
 
-
-<!-- - Jupyter-lab | Google Collaboratory |
-PyCharm | Git -->
 
 # Languages
 
