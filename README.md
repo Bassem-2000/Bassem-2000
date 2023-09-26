@@ -29,7 +29,7 @@
 &nbsp;&nbsp;
 
 ### Frameworks and Libraries 
-- Tensorflow | Keras | Scikit-learn | Matplotlib | Pandas | Numpy | FastAPI | Streamlit | OpenCV | MLFlow | Docker | Detectron2
+- Tensorflow | Keras | Scikit-learn | Matplotlib | Pandas | Numpy | FastAPI | Streamlit | OpenCV | MLFlow | Docker | Detectron2 | MediaPipe
 
 
 ### ML Algorithms
