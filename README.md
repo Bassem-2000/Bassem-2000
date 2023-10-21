@@ -8,7 +8,7 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width=100% height=3px border="0" alt="animated-line-image-0387" /></a>
 
 
-<h3 align="center"><img align="center"src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" width="800" height="400"></h3>
+<!--<h3 align="center"><img align="center"src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" width="800" height="400"></h3>-->
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="animated-line-image-0387" /></a>
 
 # Profile 👨🏻‍💻
