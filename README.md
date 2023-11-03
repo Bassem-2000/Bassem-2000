@@ -40,6 +40,10 @@
 
 - CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization | Data Augmentation | Image Segmentation | Hyperparameter Tuning
 
+### Tools
+
+- Jira | Trello | GCP 
+
 ### IDEs, Containers, and code versioning 
 
 [<img alt="alt_text" width="50px" height="50px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" />](https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png)
