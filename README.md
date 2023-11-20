@@ -12,7 +12,7 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="animated-line-image-0387" /></a>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Bassem-2000&label=Profile%20views&color=blueviolet" alt="Counter" /> 
+  <img src="https://komarev.com/ghpvc/?username=Bassem-2000&label=PROFILE+VIEWS&color=blueviolet" alt="Counter" /> 
 </p>
 
 # Profile 👨🏻‍💻
