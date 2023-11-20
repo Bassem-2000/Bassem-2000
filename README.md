@@ -4,14 +4,16 @@
 <p align="center" >
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&vCenter=true&multiline=true&width=800&height=80&duration=5000&font=Bodoni+Moda&pause=2000&size=42&color=393031" alt="img">
 </p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Bassem-2000&label=Profile%20views&color=0e75b6&style=flat" alt="Counter" /> 
-</p>
+
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width=100% height=3px border="0" alt="animated-line-image-0387" /></a>
 
 
 <!--<h3 align="center"><img align="center"src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" width="800" height="400"></h3>-->
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" alt="animated-line-image-0387" /></a>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Bassem-2000&label=Profile%0views&color=blueviolet" alt="Counter" /> 
+</p>
 
 # Profile 👨🏻‍💻
 
