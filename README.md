@@ -33,6 +33,8 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" />](https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png)
 &nbsp;&nbsp;
+[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" />](https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png)
+&nbsp;&nbsp;
 
 ### Frameworks and Libraries 
 - Tensorflow | Keras | Scikit-learn | Matplotlib | Pandas | Numpy | FastAPI | Streamlit | OpenCV | MLFlow | Docker | Detectron2 | MediaPipe
