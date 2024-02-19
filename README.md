@@ -35,7 +35,7 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" />](https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png)
 &nbsp;&nbsp;
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" />](https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png)
+[<img alt="alt_text" width="40px" height="70px" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png" />](https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png)
 &nbsp;&nbsp;
 
 ### Frameworks and Libraries 
